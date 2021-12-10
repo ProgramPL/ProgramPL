@@ -8,4 +8,13 @@
 
 
 
-[![ProgramPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Program)]
+[![ProgramPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramPL)]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramPL)]
+
+
+[![Dylan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgramPL)]
+
+
+
