@@ -5,4 +5,7 @@
 - 💬 Ask me about progress for my custom Pluto Client for Minecraft and ClassiCue=be
 - 📫 How to reach me: Through Discord or Twitter
 - ⚡ Fun fact: Im mainly making Youtube videos in my spare time with people 
-Imagine being a fa-
+
+
+
+What else do I put here?
